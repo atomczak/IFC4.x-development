@@ -57,6 +57,21 @@ A set of functional tracks with explicit terminals. It is usually composed of a 
 
 Railway track system. It is usually composed of continuous sequences of track parts and alignments.
 
+### TUNNEL_PRESUPPORT
+A grouping of rigid elements installed before excavation at the tunnel face at the top perimeter of the tunnel section.
+
+### TUNNEL_SUPPORT
+Grouping of elements designed and installed to guarantee the long term stability of the underground structure.
+
+### TUNNEL_LINING
+A functional grouping of tunnel lining elements.
+
+### WATERPROOFING
+Grouping of elements used to protect the facility against damage from moisture or the unintentional entry of water as well as the danger posed by aggressive water or soils and the effects of chemicals.
+
+### FIREPROTECTION
+Passive fire protection for containing fire and preventing it from spreading further.
+
 ### USERDEFINED
 User-defined type.
 

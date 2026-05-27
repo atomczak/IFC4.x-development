@@ -32,6 +32,15 @@ Excavation where soil or rock below topsoil is cut to the depth required for the
 ### BASE_EXCAVATION
 Excavation for basements of buildings, abutments of bridges or similar structures either partially or completely below ground level.
 
+### CONFINEDOPENEXCAVATION
+An open slope excavation where the sides are vertical or near vertical.
+
+### ANCHOREDOPENEXCAVATION
+A confined open excavation where the vertical walls are anchored.
+
+### BRACEDOPENEXCAVATION
+A confined open excavation where the vertical walls are braced.
+
 ### USERDEFINED
 User-defined type.
 

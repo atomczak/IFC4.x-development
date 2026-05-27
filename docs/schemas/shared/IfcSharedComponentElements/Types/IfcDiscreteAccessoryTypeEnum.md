@@ -72,6 +72,12 @@ A rail mechanical equipment is a mechanical equipment installed at railside, lik
 ### BIRDPROTECTION
 A device that prevents a sitting down of birds at electrically critical points and thus birds are protected against electrical shocks and disturbances by short circuit are avoided.
 
+### WATER_BARRIER
+A device aiding in compartmentalization of water in e.g. tunneling.
+
+### STRUCTURAL_SEALING
+A sealing capable of transferring either dynamic or static loads (or both).
+
 ### USERDEFINED
 User-defined accessory.
 

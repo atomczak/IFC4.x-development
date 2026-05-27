@@ -46,6 +46,12 @@ A communication terminal is an audio communication device that is usually instal
 ### RECORDINGEQUIPMENT
 A recording equipment is a device that records telephone calls or other types of audio data. It also provides the function of archiving and immediate replay.
 
+### SIREN
+A device that makes a loud prolonged signal or warning sound.
+
+### BEACON
+A light or other visible object serving as a signal, warning, or guide.
+
 ### USERDEFINED
 User-defined type.
 

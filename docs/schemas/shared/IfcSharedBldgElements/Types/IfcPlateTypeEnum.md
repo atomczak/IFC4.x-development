@@ -34,6 +34,9 @@ A plate (underneath or above) a flange to provide additional load capacity.
 ### SPLICE_PLATE
 A plate connecting two members joined at ends.
 
+### LAGGING
+Lagging is the structural material (most often wood) that spans the distance between spars at an excavation site. Lagging, and the steel spars they connect to, provides temporary ground support as a safety measure during tunneling. The lagging is installed horizontally between vertically installed spars.
+
 ### BASE_PLATE
 A plate used to spread load over a surface, such as underneath a bearing or column.
 
